@@ -8,5 +8,6 @@ I use python 3
 
 A3C Reference : https://github.com/wuyx/rlcode
 
+#But it does not learn!!!
 
 ![no](https://user-images.githubusercontent.com/29839645/47612496-eaa31d80-dabe-11e8-87c0-a1aac4774d05.PNG)
