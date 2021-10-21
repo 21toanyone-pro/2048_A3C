@@ -1,9 +1,13 @@
 # 2048_A3C
 
-I use python 3
-  and keras
+### A3C를 사용하여 2048 강화학습 연습
+
+## Install dependencis
+* Keras
+* Python3
   
-  
+일정구간에서 더이상 학습되지 않는 문제가 있음
+
 2048_Reference: https://github.com/mckeown12/2048-DQN-in-python
 
 A3C Reference : https://github.com/wuyx/rlcode
